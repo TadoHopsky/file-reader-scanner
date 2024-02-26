@@ -7,7 +7,9 @@ String - string respectively
 
 The application can receive files in the :
 
-<img width="182" alt="image" src="https://github.com/TadoHopsky/file-reader-scanner/assets/128364970/7411a995-4bbc-4426-bb76-bba96c5a3cd5">
+<img width="338" alt="image" src="https://github.com/TadoHopsky/file-reader-scanner/assets/128364970/ccea92c3-496f-4a2b-9ffd-a22f26124c97">
+<img width="513" alt="image" src="https://github.com/TadoHopsky/file-reader-scanner/assets/128364970/b620d000-8c4a-490b-ba32-84d6bf4626b8">
+
 
 
 
