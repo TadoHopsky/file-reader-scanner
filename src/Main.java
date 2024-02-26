@@ -4,9 +4,13 @@ public class Main {
     private static final String FILE2 = "inputFiles/file2.txt";
 
     public static void main(String[] args){
-    FileProcessing fileProcessing1 = new FileProcessing();
-    FileProcessing fileProcessing2 = new FileProcessing();
-    fileProcessing1.readFile(FILE1);
-    fileProcessing2.readFile(FILE2);
+        FileProcessing fileProcessing1 = new FileProcessing();
+        FileProcessing fileProcessing2 = new FileProcessing();
+        fileProcessing1.readFile(FILE1);
+        fileProcessing2.readFile(FILE2);
+
+        CreateFile createFile = new CreateFile();
+        createFile.realisation();
+
     }
 }
